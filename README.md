@@ -1,8 +1,8 @@
 # BadhaaiKart-Events
-Live preview - <a href ="badhaaikartevents.netlify.app" target="_blank">badhaaikartevents.netlify.app</a><br>
+Live preview - [badhaaikartevents.netlify.app](badhaaikartevents.netlify.app)<br>
 <b>credits:-</b><br>
-Animation by - <a href ="animate.css" target="_blank">animate.css</a><br>
-FlexSlider by - <a href ="woocommerce.com/flexslider" target="_blank">woocommerce.com/flexslider</a><br>
+Animation by - [animate.css](animate.css)<br>
+FlexSlider by - [woocommerce.com/flexslider](woocommerce.com/flexslider)<br>
 Fonts icon and style by - Fontawesome<br>
-Js library - Isotope.matafizzy.co <a href ="Isotope.matafizzy.co" target="_blank">Isotope.matafizzy.co</a><br>
+Js library - [isotope.matafizzy.co](isotope.matafizzy.co)<br>
 Corousel by - owl Corousel
