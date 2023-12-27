@@ -2730,8 +2730,8 @@
 	 * @public
 	 */
 	Autoplay.Defaults = {
-		autoplay: false,
-		autoplayTimeout: 5000,
+		autoplay: true,
+		autoplayTimeout: 3000,
 		autoplayHoverPause: false,
 		autoplaySpeed: false
 	};

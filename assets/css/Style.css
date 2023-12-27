@@ -349,9 +349,10 @@ body {
 }
 
 .header-area {
-  position: relative;
+  position: fixed;
+  width: 100%;
   background-color: #fff;
-  height: 100px;
+  height: 110px;
   z-index: 100;
   -webkit-transition: all .5s ease 0s;
   -moz-transition: all .5s ease 0s;
@@ -672,10 +673,12 @@ body {
   background-size: cover;
   padding: 220px 20% 320px 20%;
   margin-top: 0px;
+  height: 40em;
 }
 
 .main-banner .item-1 {
   background-image: url(https://images.unsplash.com/photo-1601482441062-b9f13131f33a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80);
+
 }
 
 .main-banner .item-2 {
@@ -718,7 +721,7 @@ body {
 .main-banner .owl-dots {
   position: absolute;
   bottom: 60px;
-  left: 20%;
+  left: 50%;
 }
 
 .main-banner .owl-dots .owl-dot {
@@ -1437,6 +1440,9 @@ footer p a:hover {
     .boxx {
         width: 100%;
     }
+    .main-banner .item {
+      height: 40em;
+    }
 }
 
 .single-property .main-content span.category {
@@ -1533,6 +1539,8 @@ footer p a:hover {
 
 .contact-page #map {
   margin-top: 100px;
+  display: flex;
+  justify-content: center;
 }
 
 .contact-page .section-heading {
@@ -1770,4 +1778,12 @@ body {
   .contact-page .section-heading {
     margin-right: 100px;
   }
+}
+
+.m-110 {
+  margin-top: 110px;
+}
+.disabled {
+  pointer-events: none;
+  cursor: pointer;
 }

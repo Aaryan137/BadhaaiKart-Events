@@ -1,6 +1,6 @@
 # BadhaaiKart-Events
 Live preview - badhaaikartevents.netlify.app<br>
-<b>credits:-</b><br>
+<b>credits:- Aryan Upadhyay & Mukul</b><br>
 Animation by - animate.css<br>
 FlexSlider by - woocommerce.com/flexslider<br>
 Fonts icon and style by - Fontawesome<br>
